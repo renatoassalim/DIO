@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DIO.iml" filepath="$PROJECT_DIR$/DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Kotlin/Desafios Matemáticos/Desafios Matemáticos.iml" filepath="$PROJECT_DIR$/Desafios/Kotlin/Desafios Matemáticos/Desafios Matemáticos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kotlin/Kotlin.iml" filepath="$PROJECT_DIR$/Kotlin/Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios/Kotlin/Primeiros passos/Primeiros passos.iml" filepath="$PROJECT_DIR$/Desafios/Kotlin/Primeiros passos/Primeiros passos.iml" />
+    </modules>
+  </component>
+</project>
